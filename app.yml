@@ -1,0 +1,6 @@
+name: go-cher-the-love-app
+services:
+- name: web
+  github:
+    repo: matt-cale-do/go-cher-the-love
+    branch: main

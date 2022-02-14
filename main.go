@@ -9,7 +9,12 @@ func sing(w http.ResponseWriter, req *http.Request) {
     fmt.Fprintf(w, "Do you believe in life after love?\n")
 }
 
+func walking(w http.ResponseWriter, req *http.Request) {
+    fmt.Fprintf(w, "In Memphis\n")
+}
+
 func main() {
     http.HandleFunc("/sing", sing)
-    http.ListenAndServe(":7788", nil)
+    http.HandleFunc("/walking", walking)
+    http.ListenAndServe(":8080", nil)
 }
