@@ -14,6 +14,7 @@ func walking(w http.ResponseWriter, req *http.Request) {
 }
 
 func main() {
+    http.HandleFunc("/", sing)
     http.HandleFunc("/sing", sing)
     http.HandleFunc("/walking", walking)
     http.ListenAndServe(":8080", nil)
