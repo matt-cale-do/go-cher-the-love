@@ -1,5 +1,11 @@
 # Go Cher The Love
 
-_I really DO 🌊 think you're strong enough_
+<p align="center">
 
-![cher](./cher.gif)
+<i>I really DO 🌊 think you're strong enough</i>
+
+<img width="300" src="./cher.gif" alt="cher">
+
+</p>
+
+
