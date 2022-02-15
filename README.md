@@ -1,13 +1,13 @@
 # Go Cher The Love
 
 <p align="center">
-
-
-<img width="300" src="./cher.gif" alt="cher">
-
+    <i>I really DO 🌊 think you're strong enough</i>
 </p>
 
-<i>I really DO 🌊 think you're strong enough</i>
+<p align="center">
+    <img width="400" src="./cher.gif" alt="cher">
+</p>
+
 
 
 
